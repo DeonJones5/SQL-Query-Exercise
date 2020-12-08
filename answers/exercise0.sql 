@@ -1,20 +1,5 @@
 USE Students;
 
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Misty Bridat', '7 Havey Point', 'Sang-e Chārak', '12345', 'Afghanistan');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Mareah Rustman', '354 Brickson Park Plaza', 'Kaz', '652930', 'Russia');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Cindra Clist', '36880 Burrows Place', 'Lazdijai', '67001', 'Lithuania');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Joana Crocetto', '35 Vernon Hill', 'Scottsdale', '85271', 'United States');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Morly Leahey', '7 Bartelt Plaza', 'Lávara', '12345', 'Greece');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Lois Ivanitsa', '7750 Lunder Park', 'Tékane', '12345', 'Mauritania');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Jillie Godson', '082 Golden Leaf Center', 'Zvëzdnyy', '629733', 'Russia');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Sean Oxnam', '25 Derek Crossing', 'Makamba', '12345', 'Burundi');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Caroljean Szimon', '0 Kenwood Pass', 'Valmiera', '12345', 'Latvia');
-insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Terese Emor', '30830 Pankratz Court', 'Sumberejo', '12345', 'Indonesia');
-
-
-
-
-
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Johnath Heare', '2 Ramsey Pass', 'Zhaoguli', '12345', 'China');
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('See Stainsby', '92 Clove Park', 'Limen', '12345', 'China');
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Chet Tubbles', '9 Melvin Hill', 'Huangqiao', '12345', 'China');
@@ -67,4 +52,3 @@ insert into Students (StudentName, Address, City, PostalCode, Country ) values (
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Yale Thoms', '99112 Annamark Way', 'Rublëvo', '652288', 'Russia');
 
 
-//
