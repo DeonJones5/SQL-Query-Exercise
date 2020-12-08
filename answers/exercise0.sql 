@@ -1,0 +1,67 @@
+USE Students;
+
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Misty Bridat', '7 Havey Point', 'Sang-e Chārak', '12345', 'Afghanistan');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Mareah Rustman', '354 Brickson Park Plaza', 'Kaz', '652930', 'Russia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Cindra Clist', '36880 Burrows Place', 'Lazdijai', '67001', 'Lithuania');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Joana Crocetto', '35 Vernon Hill', 'Scottsdale', '85271', 'United States');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Morly Leahey', '7 Bartelt Plaza', 'Lávara', '12345', 'Greece');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Lois Ivanitsa', '7750 Lunder Park', 'Tékane', '12345', 'Mauritania');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Jillie Godson', '082 Golden Leaf Center', 'Zvëzdnyy', '629733', 'Russia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Sean Oxnam', '25 Derek Crossing', 'Makamba', '12345', 'Burundi');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Caroljean Szimon', '0 Kenwood Pass', 'Valmiera', '12345', 'Latvia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Terese Emor', '30830 Pankratz Court', 'Sumberejo', '12345', 'Indonesia');
+
+
+
+
+
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Johnath Heare', '2 Ramsey Pass', 'Zhaoguli', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('See Stainsby', '92 Clove Park', 'Limen', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Chet Tubbles', '9 Melvin Hill', 'Huangqiao', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Giffy Lelande', '3981 Elka Plaza', 'Höllviken', '236 41', 'Sweden');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Adore Aspinal', '85 Walton Alley', 'Kalimati', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Kimball Youster', '4570 Erie Road', 'Baroh', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Giralda Sandbach', '7783 Eastwood Crossing', 'Shushenskoye', '655672', 'Russia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Davine Thunnerclef', '1348 Beilfuss Hill', 'Businga', '12345', 'Democratic Republic of the Congo');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Lisbeth Klesl', '91179 Larry Trail', 'Port Elizabeth', '12345', 'Saint Vincent and the Grenadines');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Joye Laity', '538 Dryden Trail', 'Lishan', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Kathryne Willsmore', '94 Chive Plaza', 'Nevyts’ke', '12345', 'Ukraine');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Dmitri Eckels', '9 Dryden Drive', 'Espumoso', '99400-000', 'Brazil');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Rosalind Plesing', '9143 Becker Avenue', 'Pujijie', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Jaquenette Pariso', '4 Ludington Drive', 'Weibin', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Cymbre Mardee', '2763 Esch Court', 'Malitubog', '9413', 'Philippines');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Andreana Baguley', '43306 Clemons Center', 'Otavi', '12345', 'Namibia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Chrysler Maggorini', '68 Laurel Way', 'Fuzhiping', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Chancey Dielhenn', '82346 Wayridge Drive', 'Laon', '02004 CEDEX', 'France');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Emelen Luby', '7 Holy Cross Court', 'Vani', '12345', 'Georgia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Reg Battisson', '1959 Havey Crossing', 'Solsona', '2910', 'Philippines');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Rudyard Garrood', '6 Fisk Junction', 'Grenoble', '38014 CEDEX 1', 'France');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Basile Duckworth', '6 Vidon Hill', 'Repki', '08-307', 'Poland');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Fields McGrotty', '6185 Lighthouse Bay Trail', 'Iguape', '11920-000', 'Brazil');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Peterus Leason', '81 Ronald Regan Street', 'Rönninge', '144 30', 'Sweden');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Ransom Kilbourn', '12888 Anthes Park', 'Sukolilo', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Melisandra Skypp', '9 Melrose Avenue', 'Filipstad', '682 33', 'Sweden');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Dwain Isenor', '9294 Valley Edge Crossing', 'Bilalang', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Saul Burtt', '297 Basil Drive', 'Tazarine', '12345', 'Morocco');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Octavia Lafoy', '14779 Kingsford Junction', 'Książki', '87-222', 'Poland');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Sidney McReath', '5244 Shoshone Junction', 'Orimattila', '16301', 'Finland');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Erie Casaroli', '1695 American Trail', 'Birqīn', '12345', 'Palestinian Territory');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Dino Kerss', '42 Debs Terrace', 'Pang', '4103', 'Philippines');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Randal Anthoney', '81 Oak Place', 'Berëzovka', '665028', 'Russia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Aurelea Harpin', '25 Thackeray Road', 'Maimará', '4624', 'Argentina');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Sandro Boxall', '55956 Bonner Trail', 'Chikan', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Edward Dewen', '951 Burning Wood Crossing', 'Pandian', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Donnell Haggerwood', '7459 Lakeland Place', 'Puerto Berrío', '053428', 'Colombia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Martainn Crofts', '35 Tomscot Junction', 'Abū Ghaush', '12345', 'Israel');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Bethany Draude', '0 Manley Plaza', 'Zruč nad Sázavou', '285 22', 'Czech Republic');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Duffie Flockhart', '10 Fuller Road', 'Hetang', '12345', 'China');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Lindi Churchill', '4 Atwood Lane', 'Temizhbekskaya', '186755', 'Russia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Napoleon Hansed', '51991 Randy Point', 'Caibiran', '6548', 'Philippines');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Maridel McKay', '34895 Spaight Court', 'Burträsk', '937 91', 'Sweden');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Hilda Goring', '0 Ronald Regan Terrace', 'Taloko', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Lilith Tommasetti', '3 Debs Hill', 'Borovan', '3078', 'Bulgaria');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Cathlene Bris', '39565 Hoffman Drive', 'Vito', '1659', 'Philippines');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Dorene Hounson', '35 Tennessee Point', 'Solna', '170 66', 'Sweden');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Ellary Vonderdell', '39 Crescent Oaks Alley', 'Datarkadu', '12345', 'Indonesia');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Dwight Macvain', '6 Armistice Way', 'Färjestaden', '386 35', 'Sweden');
+insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Yale Thoms', '99112 Annamark Way', 'Rublëvo', '652288', 'Russia');
