@@ -65,3 +65,6 @@ insert into Students (StudentName, Address, City, PostalCode, Country ) values (
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Ellary Vonderdell', '39 Crescent Oaks Alley', 'Datarkadu', '12345', 'Indonesia');
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Dwight Macvain', '6 Armistice Way', 'Färjestaden', '386 35', 'Sweden');
 insert into Students (StudentName, Address, City, PostalCode, Country ) values ('Yale Thoms', '99112 Annamark Way', 'Rublëvo', '652288', 'Russia');
+
+
+//
